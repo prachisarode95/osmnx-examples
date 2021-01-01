@@ -2,5 +2,5 @@ name: osmnx-examples
 channels:
   - conda-forge
 dependencies:
-  - igraph
   - osmnx=1.0.0
+  - python-igraph
